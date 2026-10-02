@@ -473,7 +473,7 @@
   .copy-inline svg { width: 13px; height: 13px; margin-right: 0.3rem; }
   .copy-inline:hover { border-color: #2F5BFF; color: #2F5BFF; }
   .copy-inline.done { background: #2F5BFF; border-color: #2F5BFF; color: #fff; }
-  .end-mail { margin: 1.25rem 0 0 !important; color: #535D72 !important; font-size: 0.9375rem !important; }
+  .end-mail { margin: 1.25rem auto 0 !important; color: #535D72 !important; font-size: 0.9375rem !important; }
 
   @media (max-width: 900px) {
     /* Steps become a sideways strip that follows the phone */
